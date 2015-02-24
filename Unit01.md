@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST341: The Silk Road and Central Eurasia"
+course_description: "A detailed study of the history of cultural and economic exchange across Eurasia from ancient to modern times, with particular emphasis in the interactions between different cultures and civilizations."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: World Systems and Civilizations: The Significance of Central
 Eurasia** <span id="1"></span> 
 *Central Eurasia encompasses a vast swath of arid land that is

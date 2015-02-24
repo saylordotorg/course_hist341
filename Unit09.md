@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST341: The Silk Road and Central Eurasia"
+course_description: "A detailed study of the history of cultural and economic exchange across Eurasia from ancient to modern times, with particular emphasis in the interactions between different cultures and civilizations."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: European Traders and Explorers** <span id="9"></span> 
 *Although the overland silk routes were lucrative trade networks,
 Europeans, as avid consumers of silk and other Eurasian luxury goods,

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST341: The Silk Road and Central Eurasia"
+course_description: "A detailed study of the history of cultural and economic exchange across Eurasia from ancient to modern times, with particular emphasis in the interactions between different cultures and civilizations."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: The Silk Road During the Tang Dynasty** <span id="5"></span> 
 *Under the Tang Dynasty in China, the Silk Road reached a pinnacle of
 sophistication and profitability.  The relative peace and internal

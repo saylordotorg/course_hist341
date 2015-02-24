@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST341: The Silk Road and Central Eurasia"
+course_description: "A detailed study of the history of cultural and economic exchange across Eurasia from ancient to modern times, with particular emphasis in the interactions between different cultures and civilizations."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: The Silk Road and the "Great Game"** <span id="10"></span> 
 *During the nineteenth century, European powers, particularly Britain
 and Russia, began to vie for control of Central Eurasia.  In the

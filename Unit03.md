@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST341: The Silk Road and Central Eurasia"
+course_description: "A detailed study of the history of cultural and economic exchange across Eurasia from ancient to modern times, with particular emphasis in the interactions between different cultures and civilizations."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Early Developments and the Silk Trade** <span id="3"></span> 
 *There were several conditions that made the opening of the Silk Road
 possible.  First, the domestication of pack animals—camels, horses, and

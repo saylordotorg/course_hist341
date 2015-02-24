@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST341: The Silk Road and Central Eurasia"
+course_description: "A detailed study of the history of cultural and economic exchange across Eurasia from ancient to modern times, with particular emphasis in the interactions between different cultures and civilizations."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: The Silk Road in the Age of the Mongols** <span
 id="7"></span> 
 *The Mongols—nomads of central Eurasia—dominated world history during

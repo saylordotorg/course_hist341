@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST341: The Silk Road and Central Eurasia"
+course_description: "A detailed study of the history of cultural and economic exchange across Eurasia from ancient to modern times, with particular emphasis in the interactions between different cultures and civilizations."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Defining the Silk Road** <span id="2"></span> 
 *The Silk Road was a series of interconnected trade routes linking all
 parts of Eurasia with China, the Middle East, and the Mediterranean

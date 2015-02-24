@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST341: The Silk Road and Central Eurasia"
+course_description: "A detailed study of the history of cultural and economic exchange across Eurasia from ancient to modern times, with particular emphasis in the interactions between different cultures and civilizations."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Opening the Silk Road Between East and West** <span
 id="4"></span> 
 *The opening of the Silk Road between China and the Mediterranean was
