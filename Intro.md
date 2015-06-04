@@ -128,3 +128,17 @@ before moving on to the next, as later coursework is often designed to
 build upon the knowledge obtained in previous assignments.  It may help
 to take notes as you work through the course materials, which will be a
 useful reference as you prepare to study for the Final Exam.
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/hist341/Unit01/)
+- [Unit 2](https://legacy.saylor.org/hist341/Unit02/)
+- [Unit 3](https://legacy.saylor.org/hist341/Unit03/)
+- [Unit 4](https://legacy.saylor.org/hist341/Unit04/)
+- [Unit 5](https://legacy.saylor.org/hist341/Unit05/)
+- [Unit 6](https://legacy.saylor.org/hist341/Unit06/)
+- [Unit 7](https://legacy.saylor.org/hist341/Unit07/)
+- [Unit 8](https://legacy.saylor.org/hist341/Unit08/)
+- [Unit 9](https://legacy.saylor.org/hist341/Unit09/)
+- [Unit 10](https://legacy.saylor.org/hist341/Unit10/)
+- [Unit 11](https://legacy.saylor.org/hist341/Unit11/)
