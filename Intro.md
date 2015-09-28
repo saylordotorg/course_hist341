@@ -159,3 +159,4 @@ useful reference as you prepare to study for the Final Exam.
 - [Unit 9](https://legacy.saylor.org/hist341/Unit09/)
 - [Unit 10](https://legacy.saylor.org/hist341/Unit10/)
 - [Unit 11](https://legacy.saylor.org/hist341/Unit11/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST341/HIST341-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST341/HIST341-FinalExam-Answers.html)
