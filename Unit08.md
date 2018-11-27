@@ -76,7 +76,7 @@ Upon successful completion of this unit, the student will be able to:
     Robert L. Worden’s (ed.) India: A Country Study: “The Mughals”**
     Link: Library of Congress Country Studies: James Heitzman and Robert
     L. Worden’s (ed.) *India: A Country Study*: “[The
-    Mughals](http://www.saylor.org/site/wp-content/uploads/2011/01/The-Mughals.pdf)”
+    Mughals](https://resources.saylor.org/archived/wp-content/uploads/2011/01/The-Mughals.pdf)”
     (PDF)  
         
      Instructions: Please read this text in its entirety.  This reading
@@ -182,7 +182,7 @@ Upon successful completion of this unit, the student will be able to:
     Islam”**
     Link: Library of Congress Country Studies: James Heitzman and Robert
     L. Worden’s (ed.) *India: A Country Study*: “[The Coming of
-    Islam](http://www.saylor.org/site/wp-content/uploads/2011/01/The-Coming-of-Islam.pdf)”
+    Islam](https://resources.saylor.org/archived/wp-content/uploads/2011/01/The-Coming-of-Islam.pdf)”
     (PDF)  
         
      Instructions: Please read this text in its entirety.  Islam is now

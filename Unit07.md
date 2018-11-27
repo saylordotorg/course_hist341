@@ -162,7 +162,7 @@ id="7.1.4"></span> 
     (ed.) Turkey: A Country Study: “Turkish Origins”**
     Link: Library of Congress Country Studies: Helen Chapin Metz’s (ed.)
     *Turkey: A Country Study*: “[Turkish
-    Origins](http://www.saylor.org/site/wp-content/uploads/2011/01/Turkish-Origins.pdf)”
+    Origins](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Turkish-Origins.pdf)”
     (PDF)  
         
      Instructions: Please read this text in its entirety.  Pay special
@@ -178,7 +178,7 @@ id="7.1.4"></span> 
     Link: Library of Congress Country Studies: Robert L. Worden, Andrea
     Matles Savada, and Ronald E. Dolan’s (ed.) *China: A Country Study*:
     “[Mongolian
-    Interlude](http://www.saylor.org/site/wp-content/uploads/2011/01/Mongolian-Interlude.pdf)”
+    Interlude](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Mongolian-Interlude.pdf)”
     (PDF)  
         
      Instructions: Please read this text in its entirety.  This reading
@@ -254,7 +254,7 @@ id="7.1.4"></span> 
 -   **Reading: University of Washington: William Rubruck’s “Account of
     the Mongols”**
     Link: University of Washington: William Rubruck’s “[Account of the
-    Mongols](http://www.saylor.org/site/wp-content/uploads/2011/01/William-of-Rubruck.pdf)”
+    Mongols](https://resources.saylor.org/archived/wp-content/uploads/2011/01/William-of-Rubruck.pdf)”
     (PDF)  
         
      Instructions: Please read this text and all embedded links in their
