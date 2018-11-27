@@ -238,7 +238,7 @@ id="9.3.3"></span> 
     (ed.) Russia: A Country Study: “Muscovy”**
     Link: Library of Congress Country Studies: Glenn E. Curtis’ (ed.)
     *Russia: A Country Study*:
-    “[Muscovy](http://www.saylor.org/site/wp-content/uploads/2011/01/Muscovy.pdf)”
+    “[Muscovy](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Muscovy.pdf)”
     (PDF)  
         
      Instructions: Please read this text in its entirety.  The Tsardom
