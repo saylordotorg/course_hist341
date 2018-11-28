@@ -102,7 +102,7 @@ id="3.2.1"></span> 
     “ArchAtlas:” “East-West Contacts in Eurasia”**
     Link: University of Sheffield: Professor Andrew Sherratt’s
     “ArchAtlas:” “[East-West Contacts in
-    Eurasia](https://resources.saylor.org/archived/wp-content/uploads/2011/02/East-West-Contacts-in-Eurasia.pdf)”
+    Eurasia](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/East-West-Contacts-in-Eurasia.pdf)”
     (PDF)  
         
      Instructions: Please read this text in its entirety.  In this text,
