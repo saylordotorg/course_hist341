@@ -44,7 +44,7 @@ Upon successful completion of this unit, the student will be able to:
     Link: Fordham University’s *AncientHistory Sourcebook*: Paul
     Halsall's version of “[Arrian: Speech of Alexander the Great, from
     *Campaigns of
-    Alexander*](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Speech-of-Alexander-the-Great.pdf)”
+    Alexander*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Speech-of-Alexander-the-Great.pdf)”
     (PDF)  
         
      Instructions: Please read the entire excerpt.  In this speech,

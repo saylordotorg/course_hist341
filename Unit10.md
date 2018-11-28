@@ -62,9 +62,9 @@ Upon successful completion of this unit, the student will be able to:
     Links: Library of Congress Country Studies: James Heitzman and
     Robert L. Worden’s (ed.) *India: A Country Study*: “[The Coming of
     the
-    Europeans](https://resources.saylor.org/archived/wp-content/uploads/2011/01/The-Coming-of-the-Europeans.pdf)”
+    Europeans](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/The-Coming-of-the-Europeans.pdf)”
     (PDF) and “[The British Empire in
-    India](https://resources.saylor.org/archived/wp-content/uploads/2011/01/The-British-Empire-in-India.pdf)”
+    India](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/The-British-Empire-in-India.pdf)”
     (PDF)  
         
      Instructions: Please read these texts in their entirety.  The East
@@ -95,7 +95,7 @@ Upon successful completion of this unit, the student will be able to:
 **10.1.4 Zunghars, Mongols, Tibetans** <span id="10.1.4"></span> 
 -   **Reading: New World Encyclopedia’s “Dzungars”**
     Link: New World Encyclopedia’s
-    “[Dzungars](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Dzungar.pdf)”
+    “[Dzungars](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Dzungar.pdf)”
     (PDF)  
         
      Instructions: Please read this text and all embedded links in their
@@ -115,7 +115,7 @@ Upon successful completion of this unit, the student will be able to:
     (ed.) Afghanistan: A Country Study: “The First Anglo-Afghan War”**
     Link: Library of Congress Country Studies: Peter R. Blood’s (ed.)
     *Afghanistan: A Country Study*: “[The First Anglo-Afghan
-    War](https://resources.saylor.org/archived/wp-content/uploads/2011/01/The-First-Anglo-Afghan-War.pdf)”
+    War](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/The-First-Anglo-Afghan-War.pdf)”
     (PDF)  
         
      Instructions: Please read this text in its entirety.  The First
@@ -133,7 +133,7 @@ Upon successful completion of this unit, the student will be able to:
     (ed.) Afghanistan: A Country Study: “The Second Anglo-Afghan War”**
     Link: Library of Congress Country Studies: Peter R. Blood’s (ed.)
     *Afghanistan: A Country Study*: “[The Second Anglo-Afghan
-    War](https://resources.saylor.org/archived/wp-content/uploads/2011/01/The-Second-Anglo-Afghan-War.pdf)”
+    War](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/The-Second-Anglo-Afghan-War.pdf)”
     (PDF)  
         
      Instructions: Please read this text in its entirety.  The Second
@@ -151,7 +151,7 @@ Upon successful completion of this unit, the student will be able to:
     1857-1859”**
     Link: James Heitzman and Robert L. Worden’s (ed.) *India: A Country
     Study*: “[Sepoy Rebellion,
-    1857-1859](https://resources.saylor.org/archived/wp-content/uploads/2011/01/The-British-Raj-Sepoy-Rebellion.pdf)”
+    1857-1859](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/The-British-Raj-Sepoy-Rebellion.pdf)”
     (PDF)  
         
      Instructions: Please read this text in its entirety.  In the United
@@ -169,7 +169,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Serving History’s “Eastern Question: Great Eastern
     Crisis”**
     Link: Serving History’s “[Eastern Question: Great Eastern
-    Crisis](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Eastern-Question.pdf)”
+    Crisis](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Eastern-Question.pdf)”
     (PDF)  
         
      Instructions: Please read this text in its entirety. The “Great
@@ -187,7 +187,7 @@ Upon successful completion of this unit, the student will be able to:
 **10.2.5 Anglo-Russian Entente** <span id="10.2.5"></span> 
 -   **Reading: Museum of Learning’s “Anglo-Russian Entente”**
     Link: Museum of Learning’s “[Anglo-Russian
-    Entente](https://resources.saylor.org/archived/wp-content/uploads/2011/02/Anglo-Russian-Entente.pdf)”
+    Entente](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/02/Anglo-Russian-Entente.pdf)”
     (PDF)  
         
      Instructions: Please read this text in its entirety.  The
